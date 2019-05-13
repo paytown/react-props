@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`colors renders color dynamically 1`] = `
+<main>
+  <div
+    style={
+      Object {
+        "backgroundColor": "rgba(undefined, undefined, undefined, 1)",
+        "borderRadius": "10px",
+        "height": "50px",
+        "width": "50px",
+      }
+    }
+  />
+  <h3>
+    RGB
+  </h3>
+  <ul>
+    <li>
+      Red: 
+    </li>
+    <li>
+      Green: 
+    </li>
+    <li>
+      Blue: 
+    </li>
+  </ul>
+</main>
+`;
