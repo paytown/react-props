@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Doggie let's see that dog 1`] = `
+<main>
+  <h3>
+    Name
+  </h3>
+  <p />
+  <h3>
+    Age
+  </h3>
+  <p>
+    unknown
+  </p>
+  <h3>
+    Sign
+  </h3>
+  <p />
+</main>
+`;
